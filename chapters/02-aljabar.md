@@ -1,4 +1,4 @@
-# kuliah 2
+# kuliah 2 : Neural Networks
 
 # Rangkuman ML Crash Course: Neural Networks
 
