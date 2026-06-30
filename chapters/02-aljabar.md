@@ -1,3 +1,5 @@
+# kuliah 2
+
 # Rangkuman ML Crash Course: Neural Networks
 
 Notebook ini berisi rangkuman komprehensif mengenai **Jaringan Saraf Tiruan (Neural Networks)** berdasarkan seri *Google Machine Learning Crash Course*. Notebook ini mencakup konsep dasar, cara kerja, serta persamaan matematis untuk setiap komponen, lengkap dengan visualisasinya.
