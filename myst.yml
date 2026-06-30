@@ -32,6 +32,7 @@ project:
   toc:
     - file: intro.md
     - file: chapters/01-statistika.md
+    - file: chapters/02-aljabar.md
 
 site:
   title: Mekanika Kuantum Minimalis 2.0
